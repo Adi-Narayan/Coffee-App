@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coffee App</string>
+    <string name="choose_your_nfavourite_coffee">Choose Your\nFavourite Coffee</string>
+    <string name="the_best_grain_the_best_roast_nthe_powerful_flavour">The Best Grain, The Best Roast\nThe Powerful Flavour</string>
+    <string name="get_started">Get Started</string>
+    <string name="search_coffee">Search Coffee</string>
+</resources>
