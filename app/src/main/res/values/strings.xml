@@ -4,4 +4,12 @@
     <string name="the_best_grain_the_best_roast_nthe_powerful_flavour">The Best Grain, The Best Roast\nThe Powerful Flavour</string>
     <string name="get_started">Get Started</string>
     <string name="search_coffee">Search Coffee</string>
+    <string name="categories">Categories</string>
+    <string name="popular_choices">Popular choices</string>
+    <string name="see_all">See all</string>
+    <string name="explorer">Explorer</string>
+    <string name="cart">Cart</string>
+    <string name="my_order">My Order</string>
+    <string name="profile">Profile</string>
+    <string name="favourites">Favourites</string>
 </resources>
