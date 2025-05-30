@@ -19,6 +19,7 @@ class MainRepository {
                 val list = mutableListOf<BannerModel>()
                 for (childSnapshot in snapshot.children) {
                     val item = childSnapshot.getValue(BannerModel::class.java)
+                    item?.let { list.add(it) }
                 }
                 listData.value = list
             }
