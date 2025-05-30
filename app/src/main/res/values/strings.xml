@@ -12,4 +12,5 @@
     <string name="my_order">My Order</string>
     <string name="profile">Profile</string>
     <string name="favourites">Favourites</string>
+    <string name="title">title</string>
 </resources>
