@@ -13,7 +13,7 @@ class MainRepository {
 
     fun loadBanner(): LiveData<MutableList<BannerModel>> {
         val listData = MutableLiveData<MutableList<BannerModel>>()
-        val ref = firebaseDatabase.getReference("Banners")
+        val ref = firebaseDatabase.getReference("Banner")
         ref.addValueEventListener(object : ValueEventListener {
             override fun onDataChange(snapshot: DataSnapshot) {
                 val list = mutableListOf<BannerModel>()
